@@ -1,1 +1,17 @@
-
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      149.417,
+      -44.824
+    ]
+  },
+  "properties": {
+    "name": "Karpuj",
+    "callsign": "VH-UUF",
+    "speed": 116,
+    "heading": 87,
+    "elevation": 597
+  }
+}
